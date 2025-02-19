@@ -1,0 +1,31 @@
+.container{
+    border: 3.5px solid black;
+    background: rgb(221, 221, 135);
+    height: 635px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box{
+    border: 2px solid black;
+    border-radius: 5px;
+    background:rgb(115, 235, 215);
+    height: 50%;
+    width: 50%;
+    margin: 5px;
+    padding: 5px;
+    
+}
+img{
+    border: 2px solid rgb(212, 22, 22);
+    height: 50%;
+}
+
+h1{
+    display: inline-block;
+    padding-left: 150px;
+    text-align: center;
+   
+}
